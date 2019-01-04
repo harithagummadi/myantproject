@@ -15,7 +15,7 @@ public class Main {
         System.out.println(hw);
     }
 public class Calc{
-	public static void main(String [] args){
+	public void main(String [] args){
 		int a=2;
 		int b=4;
 		int x;
