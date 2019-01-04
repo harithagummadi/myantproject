@@ -20,7 +20,7 @@ public class Calc{
 		int b=4;
 		int x;
 		x=a*b;
-		System.out.println("calculating numbers")
+		System.out.println("x");
 	}
 }	
 	
