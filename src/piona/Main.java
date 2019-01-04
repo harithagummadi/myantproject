@@ -14,5 +14,16 @@ public class Main {
         HelloWorld hw = new HelloWorld();
         System.out.println(hw);
     }
+public class Calc{
+	public static void main(String [] args){
+		int a=2;
+		int b=4;
+		int x;
+		x=a*b;
+		System.out.println("calculating numbers")
+	}
+}	
+	
+	
 }
 
